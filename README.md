@@ -2,7 +2,7 @@
 
 ## Emotional Virtual Assistant
 
-**EVA** is a web-based emotional support platform featuring a 3D virtual doctor avatar that interacts with users through realistic voice, expressions, and emotionally aware responses. Designed to provide supportive conversations for stress management and emotional wellness, EVA bridges the gap for users who lack immediate access to human mental health support.
+**EVA** is a web-based emotional support platform featuring a 3D virtual  avatar that interacts with users through realistic voice, expressions, and emotionally aware responses. Designed to provide supportive conversations for stress management and emotional wellness, EVA bridges the gap for users who lack immediate access to human mental health support.
 
 
 
@@ -20,7 +20,7 @@
 
 ### **Frontend**
 * **React.js:** Core framework for building a dynamic, responsive user interface.
-* **Three.js:** Used for rendering and animating the 3D virtual doctor avatar.
+* **Three.js:** Used for rendering and animating the 3D virtual  avatar.
 * **Tailwind CSS:** For sleek, modern, and mobile-friendly styling.
 * **Vite:** High-performance build tool for a fast development experience.
 
